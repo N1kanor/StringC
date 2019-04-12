@@ -1,1 +1,1 @@
-# String in C language
+# String file in C language
